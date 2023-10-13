@@ -1,5 +1,5 @@
 
-# Simplified Machine Learning for Calculating Salaries Based on Education and Experience
+# CRUD Python Flask, VueJs
 
 In this example, i create a Simple CRUD using Python as the Back End, HTML Bootstrap VueJs as the Front End, and MySQL as the Database.
 
